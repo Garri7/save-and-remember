@@ -4,13 +4,13 @@ Si desea tener unas tablas como organizador personal o profesional, puedes utili
 Si eres una persona que le gusta tener cualquier cosa por referencia y en un sitio fijo esta es tu aplicación.
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura1.PNG)
 
-##Vista Crear / Publicar
+### Vista Crear / Publicar
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura2.PNG)
 
-##Vista Editar
+### Vista Editar
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura3.PNG)
 
-## Slider par alas imágenes
+### Slider par alas imágenes
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura4.PNG)
 
 Sube la imagen de la que desee y ponle un nombre o referencia, la proxima vez que lo necesite puede buscador facilmente.
