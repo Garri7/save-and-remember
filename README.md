@@ -1,8 +1,8 @@
-# Guarda y organiza - PHP + DataTable Server + SQL
-## Aplicación en PHP para organizar productos o lo que desee con imagenes</br>
+# Guarda y organiza
+## Aplicación en PHP para organizar productos o lo que desee con imágenes.</br>
 Si desea tener unas tablas como organizador personal o profesional, puedes utilizar esta **aplicación web desarrollada en PHP + DataTable Server + SQL**.
 Si eres una persona que le gusta tener cualquier cosa por referencia y en un sitio fijo esta es tu aplicación.
-Sube la imagen de la que desee y ponle un nombre o referencia, la proxima vez que lo necesite puede buscador facilmente.
+Sube la imagen que desee y ponle un nombre o referencia, la próxima vez que lo necesite puede buscador fácilmente.
 Utilizar el potente buscador para filtar coincidencia y palabras exactas. Paginador dinamico.
 Puedes activar el login para trabajar desde el backend.
 ### Librerías utilizadas:
