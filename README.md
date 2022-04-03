@@ -3,7 +3,12 @@
 Si desea tener unas tablas como organizador personal o profesional, puedes utilizar esta **aplicación web desarrollada en PHP + DataTable Server + SQL**.
 Si eres una persona que le gusta tener cualquier cosa por referencia y en un sitio fijo esta es tu aplicación.
 Sube la imagen de la que desee y ponle un nombre o referencia, la proxima vez que lo necesite puede buscador facilmente.
+Utilizar el potente buscador para filtar coincidencia y palabras exactas. Paginador dinamico.
 Puedes activar el login para trabajar desde el backend.
+### Librerías utilizadas:
+https://github.com/DataTables/DataTables<br/>
+https://github.com/lokesh/lightbox2
+### Captura Principal
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura1.PNG)
 
 ### Vista Crear / Publicar
@@ -14,10 +19,6 @@ Puedes activar el login para trabajar desde el backend.
 
 ### Slider par alas imágenes
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura4.PNG)
-
-### Librerías utilizadas:
-https://github.com/DataTables/DataTables<br/>
-https://github.com/lokesh/lightbox2
 
 
 
