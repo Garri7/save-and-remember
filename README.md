@@ -16,7 +16,7 @@ Puedes activar el login para trabajar desde el backend.
 ![Alt text](https://raw.githubusercontent.com/Garri7/save-and-remember/main/capturas/captura4.PNG)
 
 ### Librerías utilizadas:
-https://github.com/DataTables/DataTables
+https://github.com/DataTables/DataTables<br/>
 https://github.com/lokesh/lightbox2
 
 
