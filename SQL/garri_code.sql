@@ -39,7 +39,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `usuario`, `pass`) VALUES
-(1, 'soldador', '$Altwelder$');
+(1, 'admin', 'admin');
 
 -- --------------------------------------------------------
 
